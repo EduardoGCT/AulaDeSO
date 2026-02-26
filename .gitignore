@@ -7,3 +7,4 @@
 # Ignorar binários compilados (comum no Linux)
 # Se você gera um executável chamado 'meu_app' sem extensão:
 /fork
+/threads
